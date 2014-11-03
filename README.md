@@ -1,6 +1,6 @@
 # HackerRank
 
-A collection of problems I have solved from [HackerRank](https://www.hackerrank.com). Links to each problem are listed below, by category. Problem instructions are provided in the same folder as the source code in .pdf form.
+A collection of problems I have solved from [HackerRank](https://www.hackerrank.com). Links to each problem are listed by category below. Problem instructions are provided in the same folder as the source code in .pdf form.
 
 ## Algorithms
 
