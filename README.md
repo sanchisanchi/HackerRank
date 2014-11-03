@@ -13,7 +13,7 @@ A collection of problems I have solved from [HackerRank](https://www.hackerrank.
 * [Cut the Sticks](/src/CutTheSticks)
 * [Game of Thrones - I](/src/GameOfThronesI)
 
-## Arrays and Sorting
+### Arrays and Sorting
 * [Insertion Sort - Part 1](/src/InsertionSortI) 
 * [Insertion Sort - Part 2](/src/InsertionSortII) 
 * [QuickSort 1 - Partition](/src/QuickSortI) 
